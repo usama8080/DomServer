@@ -1,23 +1,42 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "DOM123",
-    "database": "GAME",
-    "host": "52.15.190.76",
-    "dialect": "postgres"
+    "username": "uwxcqnkcfrvexf",
+    "password": "2681bcd6c6521c8e256b6d41b80c7057b5d9fed2756340f528f2f6ef3cceda28",
+    "database": "d9sh2m3s25rupf",
+    "host": "ec2-52-212-228-71.eu-west-1.compute.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+          "require": false,
+          "rejectUnauthorized": false
+      }
+    }
+
   },
   "test": {
-    "username": "postgres",
-    "password": "DOM123",
-    "database": "GAME",
-    "host": "52.15.190.76",
-    "dialect": "postgres"
+    "username": "uwxcqnkcfrvexf",
+    "password": "2681bcd6c6521c8e256b6d41b80c7057b5d9fed2756340f528f2f6ef3cceda28",
+    "database": "d9sh2m3s25rupf",
+    "host": "ec2-52-212-228-71.eu-west-1.compute.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+          "require": false,
+          "rejectUnauthorized": false
+      }
+    }
   },
   "production": {
-    "username": "postgres",
-    "password": "DOM123",
-    "database": "GAME",
-    "host": "52.15.190.76",
-    "dialect": "postgres"
+    "username": "uwxcqnkcfrvexf",
+    "password": "2681bcd6c6521c8e256b6d41b80c7057b5d9fed2756340f528f2f6ef3cceda28",
+    "database": "d9sh2m3s25rupf",
+    "host": "ec2-52-212-228-71.eu-west-1.compute.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+          "require": false,
+          "rejectUnauthorized": false
+      }
+    }
   }
 }

@@ -151,16 +151,15 @@ app.use(errorHandler);
 // });
 // Get values from env vars or defaults where not provided
 
-let port = 6000;
 
-// let port = 2003;
+let port = 2003;
 
 // Start the server
 app.listen(port, async () => {
   console.log(`Server Started on port ${port}`);
   await sequelize.authenticate();
   // console.log(__dirname)
-  //await sequelize.sync({ force: true, alter: true });
+ 0 //await sequelize.sync({ force: true, alter: true });
   console.log("DB connected");
 });
 
