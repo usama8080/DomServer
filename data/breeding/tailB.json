@@ -1,0 +1,737 @@
+[
+  {
+    "Tail": "Angelite Tail",
+    "Value": 17,
+    "BreedingPercentage": 100
+  },
+  {
+    "Tail": "Aquatic Control Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Arabian Dagger Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Banana Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Barbed Fuscia Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Barbed Parakeet Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Barbed Spear Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Bayonet Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Bent Arrow Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Bit Off Tail",
+    "Value": 13,
+    "BreedingPercentage": 76.47
+  },
+  {
+    "Tail": "Blaze Phoenix Tail",
+    "Value": 16,
+    "BreedingPercentage": 94.12
+  },
+  {
+    "Tail": "Bloody Cyclone Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Blooming Autumn Tail",
+    "Value": 14,
+    "BreedingPercentage": 82.35
+  },
+  {
+    "Tail": "Blue Uchiwa Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Bolt Spear Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Boomerang Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Boulder Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Bright Droplet Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Brown Twisted Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Bullhorn Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Caiman Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Candle Flame Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Carnivorous Plant Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Cat Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Charcoal Split Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Charmander Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Charmeleon Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Clasped Thorn Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Coral Arrow Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Creamy Godzilla Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Crimson Rattle Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Crooked Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Crumpled Arrow Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Crystal Cleaved Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Deca Thorn Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Decaying Tail",
+    "Value": 14,
+    "BreedingPercentage": 82.35
+  },
+  {
+    "Tail": "Demonic Charade Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Devil Scales Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Devil Spetum Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Diamond Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Eagle Beak Tail",
+    "Value": 7,
+    "BreedingPercentage": 41.18
+  },
+  {
+    "Tail": "Fiber Leaf Tail",
+    "Value": 15,
+    "BreedingPercentage": 88.24
+  },
+  {
+    "Tail": "Fin Plate Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Fire Arrow Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Fire Candy Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Fire Heart Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Flamingo Beak Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Flamingo Neck Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Flecked Scaly Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Fletching Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Foxy Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Gecko Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Godzilla Glowing Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Godzilla Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Gold Kyanite Layout Tail",
+    "Value": 17,
+    "BreedingPercentage": 100
+  },
+  {
+    "Tail": "Gold Nested Ruby Tail",
+    "Value": 17,
+    "BreedingPercentage": 100
+  },
+  {
+    "Tail": "Golden Bolt Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Golden Snake Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Green Anaconda Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Green Flame Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Green Ponytail Tail",
+    "Value": 15,
+    "BreedingPercentage": 88.24
+  },
+  {
+    "Tail": "Grizzly Claw Tail",
+    "Value": 15,
+    "BreedingPercentage": 88.24
+  },
+  {
+    "Tail": "Harpoon Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Hepta Thorn Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Horny Chameleon Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Horseshoe Hook Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Hungarian Horn Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Imperial Topaz Tail",
+    "Value": 17,
+    "BreedingPercentage": 100
+  },
+  {
+    "Tail": "Jaguar Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Jaguar Vanilla Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Lacerated Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Lance Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Lego Tail",
+    "Value": 14,
+    "BreedingPercentage": 82.35
+  },
+  {
+    "Tail": "Lodged Arrow Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Lucifer_s Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Magenta Chameleon",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Magenta Monkey Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Maroon Boomerang Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Mechagodzilla Tail",
+    "Value": 16,
+    "BreedingPercentage": 94.12
+  },
+  {
+    "Tail": "Median Strip Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Munsell Trident Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Neon Jade Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "One Flued Tail",
+    "Value": 15,
+    "BreedingPercentage": 88.24
+  },
+  {
+    "Tail": "Open Fracture Tail",
+    "Value": 13,
+    "BreedingPercentage": 76.47
+  },
+  {
+    "Tail": "Open Wire Tail",
+    "Value": 14,
+    "BreedingPercentage": 82.35
+  },
+  {
+    "Tail": "Orange Spade Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Orni Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Pangolin Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Penta Crystal Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Pine Leaf Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Pink Flamy Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Pink Rose Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Pistachio Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Quad Scale Tail",
+    "Value": 7,
+    "BreedingPercentage": 41.18
+  },
+  {
+    "Tail": "Rattle Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Red Spark Tail",
+    "Value": 7,
+    "BreedingPercentage": 41.18
+  },
+  {
+    "Tail": "Salamander Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Sapphire Spade Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Scaly Rattle Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Scope Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Scorpion Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Sea Boulder Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Sea Horse Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Sea Saw Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Sea Weed Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Shark Teeth Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Single Armor Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Sliding Band Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Slithering Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Slug Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Snapped Tail",
+    "Value": 15,
+    "BreedingPercentage": 88.24
+  },
+  {
+    "Tail": "Spade Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Spear Fish Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Speckled Boomerang Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Spike Plate Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Spiky Cyan Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Spiky Deca Blue Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Split Armored Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Split Dual Armor Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Split Rouge Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Sting Pink Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  },
+  {
+    "Tail": "Stingray Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Striped Goldfish Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Striped Spear Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Stripy Rainforest Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Tefarn Hot Pink Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Tentacle Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Thin Barbed Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Chequered Arrow Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Tiger Striped Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Tiger Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Triangular Snake Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Trident Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "True Devil Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Tsavorite Grapple Tail",
+    "Value": 16,
+    "BreedingPercentage": 94.12
+  },
+  {
+    "Tail": "Twig Tail",
+    "Value": 14,
+    "BreedingPercentage": 82.35
+  },
+  {
+    "Tail": "Twine Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "Violet Gem Flame Tail",
+    "Value": 17,
+    "BreedingPercentage": 100
+  },
+  {
+    "Tail": "Violet Oar Tail",
+    "Value": 10,
+    "BreedingPercentage": 58.82
+  },
+  {
+    "Tail": "Viper Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Vivid Ord Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "War Horn Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Webbed Tail",
+    "Value": 9,
+    "BreedingPercentage": 52.94
+  },
+  {
+    "Tail": "White Diez Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "White Oar Tail",
+    "Value": 8,
+    "BreedingPercentage": 47.06
+  },
+  {
+    "Tail": "Withering Brown Tail",
+    "Value": 12,
+    "BreedingPercentage": 70.59
+  },
+  {
+    "Tail": "Yellow Spotted Tail",
+    "Value": 11,
+    "BreedingPercentage": 64.71
+  }
+]

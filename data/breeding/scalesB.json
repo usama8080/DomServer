@@ -1,0 +1,362 @@
+[
+  {
+    "Scales": "Alligator Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Argyle Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Armadillo Armor Scales",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Scales": "Ash Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Aztec Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Banyan Root Scales",
+    "Value": 16,
+    "BreedingPercentage": 80
+  },
+  {
+    "Scales": "Basket Weave Scales",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Scales": "Beef Jerky Scales",
+    "Value": 17,
+    "BreedingPercentage": 85
+  },
+  {
+    "Scales": "Beehive Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Black Rose Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Blitz Kyanite Scales",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Scales": "Bubble Wrap Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Buckbeaks Feather Scales",
+    "Value": 10,
+    "BreedingPercentage": 50
+  },
+  {
+    "Scales": "Butchered Innards Scales",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Scales": "Chain Link Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Checker Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Chevron Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Cinnamon Burl Scales",
+    "Value": 17,
+    "BreedingPercentage": 85
+  },
+  {
+    "Scales": "Crooked Scales",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Scales": "Diamondback Scales",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Scales": "Elliptical Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Exotic Tutrle Shell Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Firey Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Fishy Scales",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Scales": "Furry Scales",
+    "Value": 10,
+    "BreedingPercentage": 50
+  },
+  {
+    "Scales": "Gecko Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Gem Shield Scales",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Scales": "Golden Everlasting Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Golden Robust Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Golden Viking Shield Scales",
+    "Value": 20,
+    "BreedingPercentage": 100
+  },
+  {
+    "Scales": "Green Vine Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Grilled Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Groovy Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Gutted Scales",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Scales": "Horus Eye Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Ikat Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Illuminious Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Jigsaw Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Juggernaut Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Kilt Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Leis Scales",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Scales": "Lesion Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Magma Tide Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Maze Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Noodle Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Nord Shield Scales",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Scales": "Obsidian Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Pai Sho Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Pangolin Scales",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Scales": "Phoenix Odyssey Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Platinum Elvish Scales",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Scales": "Raven Mystique Scales",
+    "Value": 17,
+    "BreedingPercentage": 85
+  },
+  {
+    "Scales": "Root Scales",
+    "Value": 10,
+    "BreedingPercentage": 50
+  },
+  {
+    "Scales": "Rubik Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Ruptured Scales",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Scales": "Scallops Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Shackles Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Shredded Scales",
+    "Value": 20,
+    "BreedingPercentage": 100
+  },
+  {
+    "Scales": "Smokey Distorted Scales",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Scales": "Swirling Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Thorny Vine Scales",
+    "Value": 16,
+    "BreedingPercentage": 80
+  },
+  {
+    "Scales": "Thunderclap Scales",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Scales": "Titanium Armor Scales",
+    "Value": 20,
+    "BreedingPercentage": 100
+  },
+  {
+    "Scales": "Totem Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Tree Bark Scales",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Scales": "Turtle Shell Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Twirling Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Vanishing Reef Scales",
+    "Value": 19,
+    "BreedingPercentage": 90
+  },
+  {
+    "Scales": "Wavy Incensed Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Wicker Scales",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Scales": "Zebra Scales",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Scales": "Zig Zag Scales",
+    "Value": 11,
+    "BreedingPercentage": 55
+  }
+]

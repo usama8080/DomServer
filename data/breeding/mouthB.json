@@ -1,0 +1,372 @@
+[
+  {
+    "Mouth": "Abyss Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Aggressive Mouth",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Mouth": "Angry Fang Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Annoyed Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Antagonized Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Asinine Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Avid Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Barbarian Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Boar Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Bulldog Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Cat Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Courage Dog Mouth",
+    "Value": 7,
+    "BreedingPercentage": 70
+  },
+  {
+    "Mouth": "Craving Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Crooked Sabretooth Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Devil Smiling Mouth",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Mouth": "Dracula Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Drool Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Dumbfound Robot Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Ecstatic Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Egoistic Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Exhilarated Mouth",
+    "Value": 7,
+    "BreedingPercentage": 70
+  },
+  {
+    "Mouth": "Flambouyant Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Frisky Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Geeky Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Gnarly Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Gold Heinous Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Gold Nefarious Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Gold Wookie Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Grandpa Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Gratified Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Grinning Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Growling Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Grumpy Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Jolly Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Jubilant Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Kraken Mouth",
+    "Value": 10,
+    "BreedingPercentage": 100
+  },
+  {
+    "Mouth": "Lascivious Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Lucky Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Melancholic Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Menacing Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Merry Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Nerdy Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Nervous Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Nonchalant Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Optimistic Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Orc Mouth",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Mouth": "Peachy Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Phlegmatic Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Plaqued Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Puerile Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Rakish Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Raunchy Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Rebel Mouth",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Mouth": "Repentant Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Resentful Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Resolute Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Sad Vampire Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Sarcastic Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Satiety Mouth",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Mouth": "Saucy Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Sigh Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Smiling Bunny Mouth",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Mouth": "Smug Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Spicy Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Suffering Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Talkative Mouth",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Mouth": "Tasmanian Devil Mouth",
+    "Value": 10,
+    "BreedingPercentage": 100
+  },
+  {
+    "Mouth": "Teething Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Tenacious Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Triumphant Mouth",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Mouth": "Ulterior Mouth",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Mouth": "Vile Mouth",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Mouth": "Yawning Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Mouth": "Yelling Mouth",
+    "Value": 2,
+    "BreedingPercentage": 20
+  }
+]

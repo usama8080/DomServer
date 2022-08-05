@@ -1,0 +1,353 @@
+[
+    {
+        "body": "Albino Embrace Dragon",
+        "Damage": "15",
+        "HP": "190",
+        "Defense": "2",
+        "Intelligence": "12",
+        "Classification": "Ice Fire"
+    },
+    {
+        "body": "Amazonian Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "5",
+        "Intelligence": "13",
+        "Classification": "Poisonous"
+    },
+    {
+        "body": "Aqua Spiral Dragon",
+        "Damage": "5",
+        "HP": "180",
+        "Defense": "9",
+        "Intelligence": "15",
+        "Classification": "Aquatic"
+    },
+    {
+        "body": "Black Spectrum Dragon",
+        "Damage": "3",
+        "HP": "190",
+        "Defense": "10",
+        "Intelligence": "15",
+        "Classification": "Magical"
+    },
+    {
+        "body": "Bloodhound Dragon",
+        "Damage": "15",
+        "HP": "190",
+        "Defense": "5",
+        "Intelligence": "12",
+        "Classification": "Firey"
+    },
+    {
+        "body": "Cheetah Dot Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "5",
+        "Intelligence": "14",
+        "Classification": "Firey"
+    },
+    {
+        "body": "Corny Blue Dragon",
+        "Damage": "4",
+        "HP": "200",
+        "Defense": "9",
+        "Intelligence": "15",
+        "Classification": "Magical"
+    },
+    {
+        "body": "Dark Shadow Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "4",
+        "Intelligence": "13",
+        "Classification": "Lava"
+    },
+    {
+        "body": "Deep Sea Dragon",
+        "Damage": "11",
+        "HP": "180",
+        "Defense": "12",
+        "Intelligence": "15",
+        "Classification": "Aquatic"
+    },
+    {
+        "body": "Electro Yale Dragon",
+        "Damage": "4",
+        "HP": "190",
+        "Defense": "10",
+        "Intelligence": "15",
+        "Classification": "Aquatic"
+    },
+    {
+        "body": "Flamy Dragon",
+        "Damage": "15",
+        "HP": "190",
+        "Defense": "3",
+        "Intelligence": "14",
+        "Classification": "Firey"
+    },
+    {
+        "body": "Fuscia Dragon",
+        "Damage": "4",
+        "HP": "185",
+        "Defense": "12",
+        "Intelligence": "15",
+        "Classification": "Magical"
+    },
+    {
+        "body": "Lightning Jade Dragon",
+        "Damage": "15",
+        "HP": "195",
+        "Defense": "8",
+        "Intelligence": "11",
+        "Classification": "Thunder"
+    },
+    {
+        "body": "Lilac Blue Dragon",
+        "Damage": "8",
+        "HP": "195",
+        "Defense": "15",
+        "Intelligence": "12",
+        "Classification": "Ice"
+    },
+    {
+        "body": "MoonStone Dragon",
+        "Damage": "8",
+        "HP": "185",
+        "Defense": "15",
+        "Intelligence": "13",
+        "Classification": "Ice"
+    },
+    {
+        "body": "Morion Lava Dragon",
+        "Damage": "15",
+        "HP": "195",
+        "Defense": "5",
+        "Intelligence": "14",
+        "Classification": "Lava"
+    },
+    {
+        "body": "Gecko Dragon",
+        "Damage": "15",
+        "HP": "195",
+        "Defense": "5",
+        "Intelligence": "12",
+        "Classification": "Venomous"
+    },
+    {
+        "body": "Neon Grape Dragon",
+        "Damage": "14",
+        "HP": "195",
+        "Defense": "4",
+        "Intelligence": "12",
+        "Classification": "Venomous"
+    },
+    {
+        "body": "Ocean Blue Dragon",
+        "Damage": "8",
+        "HP": "200",
+        "Defense": "10",
+        "Intelligence": "15",
+        "Classification": "Aquatic"
+    },
+    {
+        "body": "Rosie Pink Dragon",
+        "Damage": "15",
+        "HP": "185",
+        "Defense": "1",
+        "Intelligence": "14",
+        "Classification": "Lava"
+    },
+    {
+        "body": "Scaly Taipan Dragon",
+        "Damage": "15",
+        "HP": "190",
+        "Defense": "4",
+        "Intelligence": "12",
+        "Classification": "Poisonous"
+    },
+    {
+        "body": "Smokey Sirarcha Dragon",
+        "Damage": "15",
+        "HP": "195",
+        "Defense": "3",
+        "Intelligence": "11",
+        "Classification": "Firey"
+    },
+    {
+        "body": "Snow Leopard Dragon",
+        "Damage": "8",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "12",
+        "Classification": "Ice"
+    },
+    {
+        "body": "Tiger Striped Dragon",
+        "Damage": "9",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "13",
+        "Classification": "Sound"
+    },
+    {
+        "body": "Vanilla Meteorite Dragon",
+        "Damage": "15",
+        "HP": "195",
+        "Defense": "5",
+        "Intelligence": "13",
+        "Classification": "Ice Fire"
+    },
+    {
+        "body": "Windstorm Dragon",
+        "Damage": "6",
+        "HP": "190",
+        "Defense": "15",
+        "Intelligence": "14",
+        "Classification": "Windy"
+    },
+    {
+        "body": "Ascended Knight Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    },
+    {
+        "body": "Atomic Samurai Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Mechanical"
+    },
+    {
+        "body": "Forest Guardian Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Mythical"
+    },
+    {
+        "body": "Undead Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Infected"
+    },
+    {
+        "body": "Amethyst Rejuvenation Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Legendary Dragon"
+    },
+    {
+        "body": "Atomic Tangerine Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Legendary Dragon"
+    },
+    {
+        "body": "Wisteria Mystical Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Legendary Dragon"
+    },
+    {
+        "body": "Infernal Phoenix Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Legendary Dragon"
+    },
+    {
+        "body": "Divine Guardian Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    },
+    {
+        "body": "Golden Monarch Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    },
+    {
+        "body": "Moon Stone Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    }
+    ,
+    {
+        "body": "Tiger Stripped Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    }
+    ,
+    {
+        "body": "Fuscia Daisy Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    }
+    ,
+    {
+        "body": "Smokey Sriracha Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    }
+
+    ,
+    {
+        "body": "Forest Gaurdian Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    }
+    ,
+    {
+        "body": "Lemonade Pink Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    }
+    ,
+    {
+        "body": "Divine Gaurdian Dragon",
+        "Damage": "15",
+        "HP": "200",
+        "Defense": "15",
+        "Intelligence": "15",
+        "Classification": "Ultra Rare"
+    }
+] 

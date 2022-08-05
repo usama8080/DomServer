@@ -1,0 +1,382 @@
+[
+  {
+    "Wings": "Adamantium Wings",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Wings": "Angelic Blue Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Aquatic Green Wings",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Wings": "Armada Twine Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Asgardian Wings",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Wings": "Ashy Twig Wings",
+    "Value": 10,
+    "BreedingPercentage": 50
+  },
+  {
+    "Wings": "Azure Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Bloodlust Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Bloodstained Wings",
+    "Value": 20,
+    "BreedingPercentage": 100
+  },
+  {
+    "Wings": "Chestnut Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Chrono Wings",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Wings": "Compact Light Wings",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Wings": "Crimson Bat Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Cyber Blade Wings",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Wings": "Demantoid Wings",
+    "Value": 20,
+    "BreedingPercentage": 100
+  },
+  {
+    "Wings": "Dementor Wings",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Wings": "Desert Inferno Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Devilish Palm Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Dijon Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Dried Maple Wings",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Wings": "Egyptian Teal Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Emerald Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Emerald Eyelet Wings",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Wings": "Evergreen Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Fairy Rose Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Fallen Angel Wings",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Wings": "Flamingo Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Funky Green Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Gargoyle Wings",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Wings": "Golden Darner Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Golden Eagle Wings",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Wings": "Golden Mocha Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Golden Pegasus Wings",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Wings": "Golden Stroke Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Halloween Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Heavenly Light Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Hickory Sequoia Wings",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Wings": "Holly Jade Wings",
+    "Value": 17,
+    "BreedingPercentage": 85
+  },
+  {
+    "Wings": "Indigo Canary Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Jezebel Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Lavender Crystal Wings",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Wings": "Magnum Gold Wings",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Wings": "Mecha Falcon Wings",
+    "Value": 17,
+    "BreedingPercentage": 85
+  },
+  {
+    "Wings": "Mechanical Entrance Wings",
+    "Value": 16,
+    "BreedingPercentage": 80
+  },
+  {
+    "Wings": "Merciless Alpha Wings",
+    "Value": 17,
+    "BreedingPercentage": 75
+  },
+  {
+    "Wings": "Midnight Claw Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Nightmare Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Obsidian Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Onyx Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Parrot Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Phoenix Gem Wings",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Wings": "Pink Crescent Wings",
+    "Value": 12,
+    "BreedingPercentage": 60
+  },
+  {
+    "Wings": "Pixie Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Pterodactyl Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Purple Prism Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Quantom Quatro Wings",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Wings": "Raven Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Ripped Mothra Wings",
+    "Value": 18,
+    "BreedingPercentage": 90
+  },
+  {
+    "Wings": "Rising Alpine Wings",
+    "Value": 20,
+    "BreedingPercentage": 100
+  },
+  {
+    "Wings": "Robotic Owl Wings",
+    "Value": 16,
+    "BreedingPercentage": 80
+  },
+  {
+    "Wings": "Rouge Bat Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Sahara Wings",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Wings": "Sapphire Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Scifi Mecha Wings",
+    "Value": 17,
+    "BreedingPercentage": 85
+  },
+  {
+    "Wings": "Serpent Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Silver Vulture Wings",
+    "Value": 11,
+    "BreedingPercentage": 55
+  },
+  {
+    "Wings": "Skylla Wings",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Wings": "Spider Web Wings",
+    "Value": 10,
+    "BreedingPercentage": 50
+  },
+  {
+    "Wings": "Spotty FAYZ Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "Taffy Turquoise Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Thunderbolt Black Wings",
+    "Value": 15,
+    "BreedingPercentage": 75
+  },
+  {
+    "Wings": "Transversal Blue Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Vampire Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  },
+  {
+    "Wings": "Volcanic Wings",
+    "Value": 14,
+    "BreedingPercentage": 70
+  },
+  {
+    "Wings": "War Torn Moth Wings",
+    "Value": 19,
+    "BreedingPercentage": 95
+  },
+  {
+    "Wings": "Wasp Wings",
+    "Value": 13,
+    "BreedingPercentage": 65
+  }
+]

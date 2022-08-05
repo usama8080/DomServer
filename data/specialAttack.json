@@ -1,0 +1,66 @@
+[
+    {
+        "class": "Magical",
+        "attack": "Rainbow Breath"
+    },
+    {
+        "class": "Aquatic",
+        "attack": "Cyclonic Massacre"
+    },
+    {
+        "class": "Firey",
+        "attack": "Flame Destruction"
+    },
+    {
+        "class": "Thunder",
+        "attack": "Thunder Stroke"
+    },
+    {
+        "class": "Ice",
+        "attack": "Ice Shards Slaughter"
+    },
+    {
+        "class": "Lava",
+        "attack": "Volcanic Eruption"
+    },
+    {
+        "class": "Venomous",
+        "attack": "Poison Cloud"
+    },
+    {
+        "class": "Poisonous",
+        "attack": "Poison Bite"
+    },
+    {
+        "class": "Sound",
+        "attack": "Sonic Roar"
+    },
+    {
+        "class": "Ice Fire",
+        "attack": "Dual Carnage"
+    },
+    {
+        "class": "Windy",
+        "attack": "Wind Armageddon"
+    },
+    {
+        "class": "Mechanical",
+        "attack": "Magmous Laser"
+    },
+    {
+        "class": "Mythical",
+        "attack": "Entanglement"
+    },
+    {
+        "class": "Infected",
+        "attack": "Virus Infection"
+    },
+    {
+        "class": "Legendary",
+        "attack": "Crystalline Bazooka"
+    },
+    {
+        "class": "Ultra Rare",
+        "attack": "Golden Spear"
+    }
+]

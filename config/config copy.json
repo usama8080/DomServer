@@ -1,0 +1,25 @@
+
+{
+  "development": {
+    "username": "postgres",
+    "password": "DOM123",
+    "database": "GAME",
+    "host": "52.15.190.76",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "DOM123",
+    "database": "GAME",
+    "host": "52.15.190.76",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "DOM123",
+    "database": "GAME",
+    "host": "52.15.190.76",
+    "dialect": "postgres"
+  }
+}
+

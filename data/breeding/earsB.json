@@ -1,0 +1,732 @@
+[
+  {
+    "Ears": "Alert Bat Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Anubis Ears",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Ears": "Apricloth Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Aureolin Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Azure Flappy Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Batarang Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Beetle Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Bison Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Black Gargoyle Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Blood Angel Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Bogey Ears",
+    "Value": 7,
+    "BreedingPercentage": 70
+  },
+  {
+    "Ears": "Bone Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Brown Sheep Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Bulbasaur Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Bull Horns Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Bulldog Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Butterfly Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Calf Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Cambion Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Cape Buffalo Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Cerulean Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Choco Gills Ears",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Ears": "Clenched Claw Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Cloudy Chartreuse Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Cloudy Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Cornflower Minotaur Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Cosmos Ears",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Ears": "Cotton Candy Ears",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Ears": "Cowboy Pistol Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Crab Pincer Ears",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Ears": "Crown Tail Ears",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Ears": "Crumbling Destain Ears",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Ears": "Cyan Scorpion Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Cyan Snail Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Deer Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Devil Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Dobby Ears",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Ears": "Doberman Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Doritos Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Double Black Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Dripping Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Electric Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Elf Shoe Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Elk Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Elvish Pecan Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Emerald Tornado Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Fish Gills Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Fish Tail Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Flappy Sad Ears",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Ears": "Flexing Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Flying Squirrel Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Fortune Cookie Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Fox Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Fuscus Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Genie Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Goat Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Gold Blackheart Ears",
+    "Value": 10,
+    "BreedingPercentage": 100
+  },
+  {
+    "Ears": "Golden Weed Ears",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Ears": "Goldfish Fin Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Green Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Guppy Tail Ears",
+    "Value": 6,
+    "BreedingPercentage": 60
+  },
+  {
+    "Ears": "Hippie Moustache Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Honey Butterfly Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Injured Sheep Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Irish Shamrock Ears",
+    "Value": 7,
+    "BreedingPercentage": 70
+  },
+  {
+    "Ears": "King Ramses Ears",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Ears": "Knuckle Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Kodiak Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Lamb Sheep Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Lemon Pig Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Lizard Feet Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Mahogany Monster Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Marsh Rat Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Mermaid Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Metal Spearhead Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Minimalist Tanto Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Monster Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Moon Light Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Moose Horn Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Wooden Moose Ears",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Ears": "Moustache Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Nile Cow Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Orange Pig Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Orc Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Orc Teeth Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Palm Leaf Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Paper Plane Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Parachute Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Parrot Beak Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Parrot Feather Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Pea Pod Ears",
+    "Value": 7,
+    "BreedingPercentage": 70
+  },
+  {
+    "Ears": "Petal Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Pine Leaf Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Pink Lamb Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Pointy Bat Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Pointy Molar Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Poodle Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Prawn Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Puffy Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Punch Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Ravaged Crown Ears",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Ears": "Rime Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Ripped Balloon Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Rooster Comb Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Rose Crescent Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Sad Astronaut Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Sad Bat Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Sad Pig Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Sail Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Scalpel Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Shamrock Sheep Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Sickle Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Slashed Puffy Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Snail Antenna Ears",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Ears": "Snail Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Snapdragon Ears",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Ears": "Spatula Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Sphinx Ears",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Ears": "Squidward Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Sundaze Blaze Ears",
+    "Value": 9,
+    "BreedingPercentage": 90
+  },
+  {
+    "Ears": "Thought Bubble Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Tired Minotaur Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Tulip Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Tumbling Vigilant Ears",
+    "Value": 10,
+    "BreedingPercentage": 100
+  },
+  {
+    "Ears": "Twirling Chameleon Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Uchiwa Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Umbrella Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Valkyrie Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Vampire Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Vulture Beak Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Walrus Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "War Horn Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Whale Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Whipped Cream Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "White Doberman Ears",
+    "Value": 8,
+    "BreedingPercentage": 80
+  },
+  {
+    "Ears": "White Hook Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "White Minotaur Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "White Vampire Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Wildebeest Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Witch Broom Ears",
+    "Value": 1,
+    "BreedingPercentage": 10
+  },
+  {
+    "Ears": "Witch Nose Ears",
+    "Value": 2,
+    "BreedingPercentage": 20
+  },
+  {
+    "Ears": "Wolverine Ears",
+    "Value": 5,
+    "BreedingPercentage": 50
+  },
+  {
+    "Ears": "Wrinkled Prick Ears",
+    "Value": 7,
+    "BreedingPercentage": 70
+  },
+  {
+    "Ears": "Yale Genie Ears",
+    "Value": 3,
+    "BreedingPercentage": 30
+  },
+  {
+    "Ears": "Yellow Batarang Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  },
+  {
+    "Ears": "Zebu Horn Ears",
+    "Value": 4,
+    "BreedingPercentage": 40
+  }
+]

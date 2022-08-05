@@ -1,0 +1,66 @@
+[
+    {
+        "Bases": "Firey Dragon",
+        "HP": "400"
+    },
+    {
+        "Bases": "Lava Dragon",
+        "HP": "420"
+    },
+    {
+        "Bases": "Ice Fire Dragon",
+        "HP": "450"
+    },
+    {
+        "Bases": "Ice Dragon",
+        "HP": "430"
+    },
+    {
+        "Bases": "Venomous Dragon",
+        "HP": "420"
+    },
+    {
+        "Bases": "Poisonous Dragon",
+        "HP": "440"
+    },
+    {
+        "Bases": "Thunder Dragon",
+        "HP": "415"
+    },
+    {
+        "Bases": "Sound Dragon",
+        "HP": "425"
+    },
+    {
+        "Bases": "Windy Dragon",
+        "HP": "425"
+    },
+    {
+        "Bases": "Aquatic Dragon",
+        "HP": "435"
+    },
+    {
+        "Bases": "Magical Dragon",
+        "HP": "430"
+    },
+    {
+        "Bases": "Fairytail Dragon",
+        "HP": "500"
+    },
+    {
+        "Bases": "Terrorwings Dragon",
+        "HP": "500"
+    },
+    {
+        "Bases": "Amethyst Rejuvenation Dragon",
+        "HP": "500"
+    },
+    {
+        "Bases": "Transcendent Dragon",
+        "HP": "500"
+    },
+    {
+        "Bases": "Grim Reaper Dragon",
+        "HP": "500"
+    }
+]

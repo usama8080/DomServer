@@ -1,0 +1,498 @@
+[
+  {
+    "name": "Undefeated",
+    "Description": "Win 10 matches in a row",
+    "XP": 50,
+    "AURA": 0,
+    "Amount": 10,
+    "TypeofAchievment": "WinStreak"
+  },
+  {
+    "name": "Invincible",
+    "Description": "Win 100 matches in a day",
+    "XP": 100,
+    "AURA": 0,
+    "Amount": 100,
+    "TypeofAchievment": "WinInDay"
+  },
+  {
+    "name": "Monarch",
+    "Description": "Win 1000 matches",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 1000,
+    "TypeofAchievment": "Win"
+  },
+  {
+    "name": "Master",
+    "Description": "Win 250 matches",
+    "XP": 200,
+    "AURA": 0,
+    "Amount": 250,
+    "TypeofAchievment": "Win"
+  },
+  {
+    "name": "Grandmaster",
+    "Description": "Win 500 matches",
+    "XP": 350,
+    "AURA": 0,
+    "Amount": 500,
+    "TypeofAchievment": "Win"
+  },
+  {
+    "name": "God of War",
+    "Description": "Win 1 match without using skills",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "WinWithoutSkill"
+  },
+  {
+    "name": "Blessed by the Heavens",
+    "Description": "Win the match with less than 10 HP remaining",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 10,
+    "TypeofAchievment": "WinwithHP"
+  },
+  {
+    "name": "Loser",
+    "Description": "Lose 10 matches in a row",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 10,
+    "TypeofAchievment": "LoseStreak"
+  },
+  {
+    "name": "First Kill",
+    "Description": "Win your first match",
+    "XP": 100,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "Win"
+  },
+  {
+    "name": "Undisputed",
+    "Description": "Win 1 match without using your defence",
+    "XP": 300,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "WinWithoutDefence"
+  },
+  {
+    "name": "Bloodbath",
+    "Description": "Win 1 match with remaining HP of 2 dragons",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 2,
+    "TypeofAchievment": "WinWithDragons"
+  },
+  {
+    "name": "Triplets",
+    "Description": "Win 1 match with all the the same dragon type in your team",
+    "XP": 200,
+    "AURA": 0,
+    "Amount": 3,
+    "TypeofAchievment": "WinWithSameDragonType"
+  },
+  {
+    "name": "Twinning",
+    "Description": "Win with 2 dragons of the same dragon type in your team",
+    "XP": 350,
+    "AURA": 0,
+    "Amount": 2,
+    "TypeofAchievment": "WinWithSameDragonType"
+  },
+  {
+    "name": "First Blood",
+    "Description": "Make the first move in the match",
+    "XP": 50,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "Move"
+  },
+  {
+    "name": "Losing Champion",
+    "Description": "Lose 50 matches",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 50,
+    "TypeofAchievment": "losses"
+  },
+  {
+    "name": "Untouchable",
+    "Description": "Win 10 matches with all 3 dragons remaining",
+    "XP": 300,
+    "AURA": 0,
+    "Amount": 10,
+    "TypeofAchievment": "WinWithNoDeaths"
+  },
+  {
+    "name": "Can't Touch This",
+    "Description": "Win 1 match with one dragon remaining unhurt",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 100,
+    "TypeofAchievment": "WinWith1FullHP"
+  },
+  {
+    "name": "Born To Kill",
+    "Description": "Use the same dragon to kill all the opponent dragons",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "KillTeamWith1Dragon"
+  },
+  {
+    "name": "Wise One",
+    "Description": "Play 100 matches",
+    "XP": 50,
+    "AURA": 0,
+    "Amount": 100,
+    "TypeofAchievment": "MatchesPlayed"
+  },
+  {
+    "name": "The First DragonMaster",
+    "Description": "Play 5000 matches",
+    "XP": 600,
+    "AURA": 0,
+    "Amount": 5000,
+    "TypeofAchievment": "MatchesPlayed"
+  },
+  {
+    "name": "Polishing The Skills",
+    "Description": "Play 1000 matches",
+    "XP": 100,
+    "AURA": 0,
+    "Amount": 1000,
+    "TypeofAchievment": "MatchesPlayed"
+  },
+  {
+    "name": "Slow And Steady",
+    "Description": "Play 500 matches",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 500,
+    "TypeofAchievment": "MatchesPlayed"
+  },
+  {
+    "name": "The Elder Influence",
+    "Description": "Play 2500 matches",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 2500,
+    "TypeofAchievment": "MatchesPlayed"
+  },
+  {
+    "name": "The Old One",
+    "Description": "Play 6000 matches",
+    "XP": 800,
+    "AURA": 0,
+    "Amount": 6000,
+    "TypeofAchievment": "MatchesPlayed"
+  },
+  {
+    "name": "Celestial",
+    "Description": "Win 2000 matches",
+    "XP": 750,
+    "AURA": 0,
+    "Amount": 2000,
+    "TypeofAchievment": "Win"
+  },
+  {
+    "name": "There Is No Hope For You",
+    "Description": "Lose 100 matches",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 100,
+    "TypeofAchievment": "Losses"
+  },
+  {
+    "name": "Dragon Legion",
+    "Description": "Collect 10 Dragons",
+    "XP": 375,
+    "AURA": 0,
+    "Amount": 10,
+    "TypeofAchievment": "CollectDragons"
+  },
+  {
+    "name": "Dragon Controller",
+    "Description": "Collect 20 Dragons",
+    "XP": 750,
+    "AURA": 0,
+    "Amount": 20,
+    "TypeofAchievment": "CollectDragons"
+  },
+  {
+    "name": "Evader",
+    "Description": "Dodge 10 attacks from enemies",
+    "XP": 50,
+    "AURA": 0,
+    "Amount": 10,
+    "TypeofAchievment": "Dodge"
+  },
+  {
+    "name": "Master Evader",
+    "Description": "Dodge 30 attacks from enemies",
+    "XP": 200,
+    "AURA": 0,
+    "Amount": 30,
+    "TypeofAchievment": "Dodge"
+  },
+  {
+    "name": "Serial Thief",
+    "Description": "Steal 10 cards from enemies",
+    "XP": 300,
+    "AURA": 0,
+    "Amount": 10,
+    "TypeofAchievment": "StealCards"
+  },
+  {
+    "name": "Frozen",
+    "Description": "Freeze 30 enemies",
+    "XP": 150,
+    "AURA": 0,
+    "Amount": 30,
+    "TypeofAchievment": "Freeze"
+  },
+  {
+    "name": "No Chance",
+    "Description": "Eliminate an enemy without giving it the chance to attack",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "PerfectKill"
+  },
+  {
+    "name": "Serial Killer",
+    "Description": "Kill 50 enemies",
+    "XP": 50,
+    "AURA": 0,
+    "Amount": 50,
+    "TypeofAchievment": "Kill"
+  },
+  {
+    "name": "Mass Murderer",
+    "Description": "Kill 100 enemies",
+    "XP": 100,
+    "AURA": 0,
+    "Amount": 100,
+    "TypeofAchievment": "Kill"
+  },
+  {
+    "name": "Spree Killer",
+    "Description": "Kill 250 enemies",
+    "XP": 150,
+    "AURA": 0,
+    "Amount": 250,
+    "TypeofAchievment": "Kill"
+  },
+  {
+    "name": "Public Enemy",
+    "Description": "Kill 500 enemies",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 500,
+    "TypeofAchievment": "Kill"
+  },
+  {
+    "name": "The Madolin",
+    "Description": "Kill 1000 enemies",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 1000,
+    "TypeofAchievment": "Kill"
+  },
+  {
+    "name": "Karmic Retribution",
+    "Description": "Defeat the person who once killed you",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "KillRevenge"
+  },
+  {
+    "name": "Nothing Changed",
+    "Description": "Kill the same person's dragons more than once",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 2,
+    "TypeofAchievment": "KillSameTeamDragons"
+  },
+  {
+    "name": "Dragon Supreme",
+    "Description": "Purchase every single dragon class",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 16,
+    "TypeofAchievment": "BuyDragonClass"
+  },
+  {
+    "name": "Versatile Player",
+    "Description": "Use every single dragon atleast once",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 16,
+    "TypeofAchievment": "UseDragon"
+  },
+  {
+    "name": "Defensive Battalion",
+    "Description": "Win a match with all defense type dragons",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "Windefense"
+  },
+  {
+    "name": "Attack Force",
+    "Description": "Win a match with all attack type dragons",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "Winattack"
+  },
+  {
+    "name": "Big Brain Time",
+    "Description": "Win a match with all intelligent type dragons",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 1,
+    "TypeofAchievment": "Winintelligence"
+  },
+  {
+    "name": "Game Freak",
+    "Description": "Spend 100 hours playing the game",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 100,
+    "TypeofAchievment": "PlayHours"
+  },
+  {
+    "name": "Nerd",
+    "Description": "Spend 300 hours playing the game",
+    "XP": 750,
+    "AURA": 0,
+    "Amount": 300,
+    "TypeofAchievment": "PlayHours"
+  },
+  {
+    "name": "Dragon Slayer",
+    "Description": "Defeat 30 enemies using critical hits",
+    "XP": 700,
+    "AURA": 0,
+    "Amount": 30,
+    "TypeofAchievment": "KillCritical"
+  },
+  {
+    "name": "Old Traditions",
+    "Description": "Use the same skill 20 times",
+    "XP": 200,
+    "AURA": 0,
+    "Amount": 20,
+    "TypeofAchievment": "UseSkill"
+  },
+  {
+    "name": "Rank E DragonMaster",
+    "Description": "Reach the Rank E grade",
+    "XP": 100,
+    "AURA": 0,
+    "Amount": "E",
+    "TypeofAchievment": "Rank"
+  },
+  {
+    "name": "Rank D DragonMaster",
+    "Description": "Reach the Rank D grade",
+    "XP": 200,
+    "AURA": 0,
+    "Amount": "D",
+    "TypeofAchievment": "Rank"
+  },
+  {
+    "name": "Rank C DragonMaster",
+    "Description": "Reach the Rank C grade",
+    "XP": 300,
+    "AURA": 0,
+    "Amount": "C",
+    "TypeofAchievment": "Rank"
+  },
+  {
+    "name": "Rank B DragonMaster",
+    "Description": "Reach the Rank B grade",
+    "XP": 400,
+    "AURA": 0,
+    "Amount": "B",
+    "TypeofAchievment": "Rank"
+  },
+  {
+    "name": "Rank A DragonMaster",
+    "Description": "Reach the Rank A grade",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": "A",
+    "TypeofAchievment": "Rank"
+  },
+  {
+    "name": "Rank S DragonMaster",
+    "Description": "Reach the Rank S grade",
+    "XP": 600,
+    "AURA": 0,
+    "Amount": "S",
+    "TypeofAchievment": "Rank"
+  },
+  {
+    "name": "Rank S+ DragonMaster",
+    "Description": "Reach the Rank S+ grade",
+    "XP": 700,
+    "AURA": 0,
+    "Amount": "SS",
+    "TypeofAchievment": "Rank"
+  },
+  {
+    "name": "Dynamic",
+    "Description": "Play in all 8 territories",
+    "XP": 200,
+    "AURA": 0,
+    "Amount": 8,
+    "TypeofAchievment": "PlayTerritory"
+  },
+  {
+    "name": "Connoisseur",
+    "Description": "Collect all rare dragons",
+    "XP": 500,
+    "AURA": 0,
+    "Amount": 5,
+    "TypeofAchievment": "UnlockRareDragons"
+  },
+  {
+    "name": "Addicted",
+    "Description": "Play for 50 consecutive days",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 50,
+    "TypeofAchievment": "PlayStreak"
+  },
+  {
+    "name": "Startup",
+    "Description": "Gain 1k AURA",
+    "XP": 250,
+    "AURA": 0,
+    "Amount": 1000,
+    "TypeofAchievment": "CollectAura"
+  },
+  {
+    "name": "Agent",
+    "Description": "Gain 10k AURA",
+    "XP": 1000,
+    "AURA": 0,
+    "Amount": 10000,
+    "TypeofAchievment": "CollectAura"
+  },
+  {
+    "name": "Treasurer",
+    "Description": "Gain 100k AURA",
+    "XP": 2000,
+    "AURA": 0,
+    "Amount": 1000000,
+    "TypeofAchievment": "CollectAura"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "ICY Domain",
+    "image": "https://game-api.dragonsofmidgard.com/territory/IceDomain.png"
+  },
+  {
+    "name": "Tundra Mountain",
+    "image": "https://game-api.dragonsofmidgard.com/territory/ThandraMountain.png"
+  },
+  {
+    "name": "Shire",
+    "image": "https://game-api.dragonsofmidgard.com/territory/Shire.png"
+  },
+  {
+    "name": "Enchanted Forest",
+    "image": "https://game-api.dragonsofmidgard.com/territory/EnchantedForest.png"
+  },
+  {
+    "name": "Ranth Desert",
+    "image": "https://game-api.dragonsofmidgard.com/territory/IceDomain.png"
+  },
+  {
+    "name": "Mount Argon",
+    "image": "https://game-api.dragonsofmidgard.com/territory/MountArgon.png"
+  },
+  {
+    "name": "Ashy Range",
+    "image": "https://game-api.dragonsofmidgard.com/territory/AshyRange.png"
+  },
+  {
+    "name": "Citcra",
+    "image": "https://game-api.dragonsofmidgard.com/territory/Citcra.png"
+  }
+]
